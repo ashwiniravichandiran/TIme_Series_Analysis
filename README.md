@@ -18,12 +18,15 @@ To build predictive models for forecasting future stock prices based on historic
 Methodology:
 
 Data Preprocessing: Clean the dataset by handling missing values, removing duplicates, and formatting data types. Ensure consistency and reliability of the data.
+
 Exploratory Data Analysis (EDA): Explore the distribution of stock prices, visualize trends over time, and identify any outliers or anomalies in the data.
+
 Time Series Decomposition: Decompose the time series data into trend, seasonality, and residual components using techniques such as moving averages, seasonal decomposition, or Fourier analysis.
+
 Correlation Analysis: Investigate correlations between the stock prices of different companies to identify potential relationships and dependencies.
+
 Predictive Modeling: Build time series forecasting models, such as Autoregressive Integrated Moving Average (ARIMA) to predict future stock prices.
-Evaluation and Validation: Evaluate the performance of the predictive models using appropriate metrics and validate their accuracy through backtesting and cross-validation.
-Insights and Interpretation: Interpret the results of the analysis to derive actionable insights for investors, traders, and financial analysts. Identify key trends, patterns, and factors influencing stock price movements.
+
 
 
 
